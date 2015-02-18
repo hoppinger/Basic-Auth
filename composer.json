@@ -1,0 +1,12 @@
+{
+    "name": "hoppinger/basic-auth",
+    "description": "This WordPress plugin is a fork from the wp-api/basic-auth plugin.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Metten Van der Meer",
+            "email": "janmetten@hoppinger.com"
+        }
+    ]
+}
